@@ -35,5 +35,5 @@ Projeto desenvolvido para disciplina de Banco de Dados NoSQL, do curso de Análi
 Linha 5:
 const url = 'mongodb://localhost:27017'; // Altere para sua URL de conexão
 
-``6`` Crie um banco de dados com o nome 'blog'.
-``7`` Abra o terminal e inicie o servidor com `node app.js`. O servidor será iniciado em `http://localhost:3000`.
+``6`` Crie um banco de dados com o nome 'blog'.  <br>
+``7`` Abra o terminal e inicie o servidor com `node app.js`. O servidor será iniciado em `http://localhost:3000`.  <br>
