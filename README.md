@@ -18,6 +18,7 @@ Projeto desenvolvido para disciplina de Banco de Dados NoSQL, do curso de Análi
 
 ### ✔️ Tecnologias utilizadas
 - Visual Studio Code
+- HTML
 - CSS
 - Bootstrap
 - JavaScript
