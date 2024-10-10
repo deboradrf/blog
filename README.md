@@ -33,7 +33,7 @@ Projeto desenvolvido para disciplina de Banco de Dados NoSQL, do curso de Análi
 `4` Abra o MongoDB e certifique-se de que ele está rodando em `localhost:27017`. <br>
 `5` Se o endereço for diferente, abra o arquivo `app.js` e configure a conexão conforme abaixo: 
 
-Linha 5:
+Linha 5: <br>
 const url = 'mongodb://localhost:27017'; // Altere para sua URL de conexão
 
 ``6`` Crie um banco de dados com o nome 'blog'.  <br>
