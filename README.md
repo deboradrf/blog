@@ -19,7 +19,7 @@ Projeto desenvolvido para disciplina de Banco de Dados NoSQL, do curso de Análi
 - ``Express``
 - ``MongoDB``
 
-## Funcionalidades
+### ⚙️ Funcionalidades
 - Criar novos artigos
 - Editar artigos existentes
 - Excluir artigos
