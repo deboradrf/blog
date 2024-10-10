@@ -1,0 +1,45 @@
+body {
+    font-family: "Fredoka", sans-serif;
+    background-color: #E6DDC6;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: 600;
+}
+
+u {
+    font-size: 13px;
+}
+
+a {
+    color: black;
+}
+
+.btn {
+    color: black;
+}
+
+.btn:hover {
+    color: white;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    font-size: 12px;
+}
+
+table {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+th, td {
+    width: 50%;
+    text-align: center;
+}
