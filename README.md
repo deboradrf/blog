@@ -8,29 +8,29 @@
 Projeto desenvolvido para disciplina de Banco de Dados NoSQL, do curso de Análise e Desenvolvimento de Sistemas, que simula um blog que permite criar, editar, visualizar e excluir artigos.
 
 ### 🎨 Layout
-<img src="https://github.com/user-attachments/assets/060175f6-a16f-4732-9f13-d81bf48ce683">
-
-### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``CSS``
-- ``Bootstrap``
-- ``JavaScript``
-- ``Node.js``
-- ``Express``
-- ``MongoDB``
+<img src="https://github.com/user-attachments/assets/ed865986-cef4-4996-b6ad-15d54e9a930e">
 
 ### ⚙️ Funcionalidades
-- Criar novos artigos
-- Editar artigos existentes
-- Excluir artigos
-- Visualizar detalhes de cada artigo
+- Criar novos artigos. <br>
+- Editar artigos existentes. <br>
+- Excluir artigos. <br>
+- Visualizar detalhes de cada artigo. <br>
+
+### ✔️ Tecnologias utilizadas
+- Visual Studio Code
+- CSS
+- Bootstrap
+- JavaScript
+- Node.js
+- Express
+- MongoDB
 
 ### 📁 Como executar
-``1`` Abra a pasta do projeto no Visual Studio Code. <br>
-``2`` Certifique-se de ter o Node.js instalado. Você pode baixá-lo aqui: `https://nodejs.org/pt`. <br>
-``3`` Abra o terminal e instale o express e o mongodb com o seguinte comando: `npm install express mongodb`. <br>
-``4`` Abra o MongoDB e certifique-se de que ele está rodando em `localhost:27017`. <br>
-``5`` Se o endereço for diferente, abra o arquivo `app.js` e configure a conexão conforme abaixo: 
+`1` Abra a pasta do projeto no Visual Studio Code. <br>
+`2` Certifique-se de ter o Node.js instalado. Você pode baixá-lo aqui: `https://nodejs.org/pt`. <br>
+`3` Abra o terminal e instale o express e o mongodb com o seguinte comando: `npm install express mongodb`. <br>
+`4` Abra o MongoDB e certifique-se de que ele está rodando em `localhost:27017`. <br>
+`5` Se o endereço for diferente, abra o arquivo `app.js` e configure a conexão conforme abaixo: 
 
 Linha 5:
 const url = 'mongodb://localhost:27017'; // Altere para sua URL de conexão
